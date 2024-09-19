@@ -1,4 +1,4 @@
-### Hi, I'm Anant Dhokia 👋
+### Hi, I'm Anant Dhokia
 I'm a third-year Informatics student at the University of Washington-Seattle who is passionate about software engineering, AI, and web development. I enjoy building projects that solve real-world problems and am currently seeking software engineering and systems management internship opportunities to further develop my skills.
 
 ### 🔧 Skills
@@ -10,16 +10,13 @@ I'm a third-year Informatics student at the University of Washington-Seattle who
 - **Technologies:** REST APIs, Event-Driven Programming, Cloud (AWS, Fly.io)
 
 ### 🌟 Projects
-- **[Task Manager App](https://github.com/yourusername/task-manager-app):** A collaborative task management tool built with Node.js, Express, and MongoDB. Implemented RESTful APIs and used event-driven programming to handle real-time updates.
-- **[AI Chatbot](https://github.com/yourusername/ai-chatbot):** Developed an AI assistant using Python and GPT-4 API for natural language processing. Designed the architecture to handle asynchronous tasks and streamline user interactions.
-
-### 🤝 Contributions
-- Contributed to [Open Source Project Name](https://github.com/project-link) by adding a feature to improve accessibility.
-- Collaborated on [Group Project](https://github.com/project-link) to build a tool for automating data analysis in Python.
+- **AI Receptionist:** A collaborative in-progress project to build a service which replaces traditional automated phone systems. Built with Node.js, implemented RESTful APIs like OpenAi API, Deepgram, Google TTS API, Twilio, and used event-driven programming to handle real-time updates.
+- **[Social Media Bot](https://github.com/AnantDH/Social-Media-Bot):** Developed a bot which can autonomously generate videos meant for social media platforms like Instagram, Tiktok, and Youtube Shorts with features like subtitles, profanity filters, and automatic text-to-speech generation. Made with Python, implemented RESTul APIs like OpenAi API, ElevenLabs, JSON2Video, Praw.
+- **[Member Management Web-Application](Link Coming)** Built a full-stack web application with Python and flask for back-end, HTML, CSS, and JavaScript for front-end, and SQL for data-tier to manage non-profit organization [Sandipani's](https://sandipani.org/humanitarian-relief/other-humanitarian-activities/disaster-relief-rehabilitation/) member data. Features include custom accounts with personalized dashboards, RBAC, intuitive design for senior userbase.
 
 ### 📫 Contact Me
 - LinkedIn: [https://www.linkedin.com/in/anant-dhokia](https://www.linkedin.com/in/anant-dhokia-3a0a71324/?trk=opento_sprofile_topcard)
 - Email: anantd@uw.edu
 
 ### 🌱 Currently Learning
-- Exploring advanced concepts in Node.js, including microservices and event-driven architectures.
+- Exploring concepts in Node.js, including asynchronous and event-driven architectures along with React web-framework for front-end development.
