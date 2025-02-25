@@ -15,10 +15,10 @@ I'm a third-year Informatics student at the University of Washington-Seattle who
 - **[Member Management Web-Application](https://github.com/AnantDH/sandipani)** Built a full-stack web application with Python and flask for back-end, HTML, CSS, and JavaScript for front-end, and SQL for data-tier to manage non-profit organization [Sandipani's](https://sandipani.org/humanitarian-relief/other-humanitarian-activities/disaster-relief-rehabilitation/) member, donation, and marketing data. Features include custom accounts with personalized dashboards, RBAC, intuitive design for a senior userbase.
 
 ### Contact Me
-- Personal Portfolio: [https://www.anantd.com](www.anantd.com)
+- Personal Portfolio: [https://www.anantd.com](https://www.anantd.com)
 - LinkedIn: [https://www.linkedin.com/in/anant-dhokia](https://www.linkedin.com/in/anant-dhokia-3a0a71324/?trk=opento_sprofile_topcard)
-- Email: [anantd@uw.edu](anantd@uw.edu)
-- Phone: [4254427991](425-442-7991)
+- Email: anantd@uw.edu
+- Phone: 425-442-7991
 
 ### Currently Learning
 - Exploring concepts in Node.js, including asynchronous and event-driven architectures along with React web-framework for front-end development.
